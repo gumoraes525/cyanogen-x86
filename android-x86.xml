@@ -3,7 +3,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
   <remote  name="x86"
-           fetch="." />
+           fetch="https://git.code.sf.net/p/android-x86/" />
   <default revision="froyo"
            remote="aosp"
            sync-c="true"
